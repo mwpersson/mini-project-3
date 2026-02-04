@@ -1,6 +1,14 @@
-numpy
-pandas
-seaborn
-matplotlib
-scikit-learn
-umap-learn
+Core Requirements:
+Python 3.9 or above
+pip (Pip Installs Packages) - For installation of runtime Python Libraries
+
+Dataset: Kaggle's Mall Customer Segmentation Data - Provided under /data folder (https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
+
+
+Core Python/pip libraries:
+   - numpy
+   - pandas
+   - scikit-learn
+   - matplotlib
+Environment:
+   - Jupyter (or notebook / jupyterlab) for runtime environment for running .ipynb files
