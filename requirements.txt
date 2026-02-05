@@ -8,7 +8,9 @@ Dataset: Kaggle's Mall Customer Segmentation Data - Provided under /data folder 
 Core Python/pip libraries:
    - numpy
    - pandas
-   - scikit-learn
+   - seaborn
    - matplotlib
+   - scikit-learn
+   - umap-learn
 Environment:
    - Jupyter (or notebook / jupyterlab) for runtime environment for running .ipynb files
